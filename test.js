@@ -1,3 +1,3 @@
-function(e){
-return 1+1;
+function lesson(a,b){
+return 1-1;
 }
